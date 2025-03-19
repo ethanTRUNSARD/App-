@@ -1,0 +1,303 @@
+{
+    "schedule": [
+        {
+            "start_time": "8h30",
+            "end_time": "9h25",
+            "subject": "PHYSIQUE-CHIMIE",
+            "teacher": "LEFEBVRE K.",
+            "room": "[305_GR2]",
+            "status": "salle 201",
+            "color": "#0099DA"
+        },
+        {
+            "start_time": "9h25",
+            "end_time": "10h25",
+            "subject": "TECHNOLOGIE",
+            "teacher": "DUMONT P.",
+            "room": "[305_GR2]",
+            "status": "salle 211",
+            "color": "#9495CA"
+        },
+        {
+            "start_time": "10h40",
+            "end_time": "11h35",
+            "subject": "MATHEMATIQUES",
+            "teacher": "KERROUMI B.",
+            "room": "salle 205",
+            "status": "Normal",
+            "color": "#010504"
+        }
+    ],
+    "homework": [
+        {
+            "subject": "MATHEMATIQUES",
+            "status": "Fait",
+            "description": "reprendre les questions b) c) et d) de l'exercice 79",
+            "date": ""
+        },
+        {
+            "subject": "MATHEMATIQUES",
+            "status": "Fait",
+            "description": "reprendre les questions b) c) et d) de l'exercice 79",
+            "date": "Pourdemain"
+        },
+        {
+            "subject": "ED.PHYSIQUE & SPORT.",
+            "status": "Non Fait",
+            "description": "Apporter petit cahier EPS.",
+            "date": ""
+        },
+        {
+            "subject": "ED.PHYSIQUE & SPORT.",
+            "status": "Non Fait",
+            "description": "Apporter petit cahier EPS.",
+            "date": "Pourvendredi 21 mars"
+        },
+        {
+            "subject": "ESPAGNOL LV2",
+            "status": "Non Fait",
+            "description": "Lee de nuevo el texto de Egeria y responde a las preguntas en el cuaderno1. A partir del texte de Egeria, marca el itinerario de la mujer en el mapa.2. ¿Con quién viajó?3.¿Por qué viajó tanto?4.¿Por qué Egeria impresiona5.¿Cómo podemos definirla?6.¿Por qué Egeria es famosa?",
+            "date": "Pourvendredi 21 mars"
+        },
+        {
+            "subject": "SCIENCES VIE & TERRE",
+            "status": "Non Fait",
+            "description": "Terminer l'activité 2 si cela n'a pas été fait en classe. + conseil : faire des exercices d'entrainement pour poser vos question si besoin.",
+            "date": "Pourvendredi 21 mars"
+        },
+        {
+            "subject": "EDUCATION MUSICALE",
+            "status": "Fait",
+            "description": "Revoir le chant et la leçon.",
+            "date": ""
+        },
+        {
+            "subject": "EDUCATION MUSICALE",
+            "status": "Fait",
+            "description": "Revoir le chant et la leçon.",
+            "date": "Pourlundi 24 mars"
+        },
+        {
+            "subject": "HISTOIRE-GEOGRAPHIE-EMC",
+            "status": "Non Fait",
+            "description": "Contrôle H5 + revoir les dates de H4",
+            "date": "Pourlundi 24 mars"
+        }
+    ],
+    "notes": [
+        {
+            "subject": "MATHEMATIQUES",
+            "date": "Hier",
+            "evaluations": [
+                {
+                    "title": "Très bonne maîtrise - Choisir et mettre en relation des cadres (numérique, algébrique, géométrique) adaptés pour traiter un problème ou pour étudier un objet mathématique.",
+                    "color": "",
+                    "text": "+"
+                },
+                {
+                    "title": "",
+                    "color": "#008000",
+                    "text": "+"
+                },
+                {
+                    "title": "Très bonne maîtrise - Calculer avec des nombres rationnels, de manière exacte ou approchée, en combinant de façon appropriée le calcul mental, le calcul posé et le calcul instrumenté (calculatrice ou logiciel).",
+                    "color": "",
+                    "text": "+"
+                },
+                {
+                    "title": "",
+                    "color": "#008000",
+                    "text": "+"
+                }
+            ]
+        },
+        {
+            "subject": "SCIENCES VIE & TERRE",
+            "date": "Hier",
+            "evaluations": [
+                {
+                    "title": "Très bonne maîtrise - Restituer des connaissances",
+                    "color": "",
+                    "text": "+"
+                },
+                {
+                    "title": "",
+                    "color": "#008000",
+                    "text": "+"
+                }
+            ]
+        },
+        {
+            "subject": "PHYSIQUE-CHIMIE",
+            "date": "le 13 mars",
+            "evaluations": [
+                {
+                    "title": "Très bonne maîtrise - Savoir écrire la formule d’un ion ou donner sa formation à partir de sa formule",
+                    "color": "",
+                    "text": "+"
+                },
+                {
+                    "title": "",
+                    "color": "#008000",
+                    "text": "+"
+                },
+                {
+                    "title": "Maîtrise satisfaisante - Mobiliser ses connaissances",
+                    "color": "",
+                    "text": ""
+                },
+                {
+                    "title": "",
+                    "color": "#45B851",
+                    "text": ""
+                },
+                {
+                    "title": "Maîtrise fragile - Passer d’une forme de langage scientifique à une autre",
+                    "color": "",
+                    "text": ""
+                },
+                {
+                    "title": "",
+                    "color": "#FFDA01",
+                    "text": ""
+                }
+            ]
+        },
+        {
+            "subject": "EDUCATION MUSICALE",
+            "date": "le 10 mars",
+            "evaluations": [
+                {
+                    "title": "Maîtrise satisfaisante - Réaliser des projets musicaux d’interprétation ou de création",
+                    "color": "",
+                    "text": ""
+                },
+                {
+                    "title": "",
+                    "color": "#45B851",
+                    "text": ""
+                }
+            ]
+        },
+        {
+            "subject": "FRANCAIS",
+            "date": "le 6 mars",
+            "evaluations": [
+                {
+                    "title": "Presque maîtrisé - Adopter des stratégies et des procédures d’écriture efficaces.",
+                    "color": "",
+                    "text": ""
+                },
+                {
+                    "title": "",
+                    "color": "#ADDE1F",
+                    "text": ""
+                }
+            ]
+        },
+        {
+            "subject": "FRANCAIS",
+            "date": "le 6 mars",
+            "evaluations": [
+                {
+                    "title": "Très bonne maîtrise - Adopter des stratégies et des procédures d’écriture efficaces.",
+                    "color": "",
+                    "text": "+"
+                },
+                {
+                    "title": "",
+                    "color": "#008000",
+                    "text": "+"
+                }
+            ]
+        },
+        {
+            "subject": "FRANCAIS",
+            "date": "le 4 mars",
+            "evaluations": [
+                {
+                    "title": "Très bonne maîtrise - Lire des œuvres littéraires et fréquenter des œuvres d'art.",
+                    "color": "",
+                    "text": "+"
+                },
+                {
+                    "title": "",
+                    "color": "#008000",
+                    "text": "+"
+                },
+                {
+                    "title": "Presque maîtrisé - Élaborer une interprétation de textes littéraires.",
+                    "color": "",
+                    "text": ""
+                },
+                {
+                    "title": "",
+                    "color": "#ADDE1F",
+                    "text": ""
+                }
+            ]
+        },
+        {
+            "subject": "EDUCATION MUSICALE",
+            "date": "le 3 mars",
+            "evaluations": [
+                {
+                    "title": "Maîtrise satisfaisante - Écouter, comparer, construire une culture musicale commune",
+                    "color": "",
+                    "text": ""
+                },
+                {
+                    "title": "",
+                    "color": "#45B851",
+                    "text": ""
+                }
+            ]
+        },
+        {
+            "subject": "ARTS PLASTIQUES",
+            "date": "le 13 févr.",
+            "evaluations": [
+                {
+                    "title": "Presque maîtrisé - Choisir, mobiliser et adapter des langages et des moyens plastiques variés en fonction de leurs effets dans une intention artistique en restant attentif à l’inattendu",
+                    "color": "",
+                    "text": ""
+                },
+                {
+                    "title": "",
+                    "color": "#ADDE1F",
+                    "text": ""
+                },
+                {
+                    "title": "Maîtrise satisfaisante - S’approprier des questions artistiques en prenant appui sur une pratique artistique et réflexive",
+                    "color": "",
+                    "text": ""
+                },
+                {
+                    "title": "",
+                    "color": "#45B851",
+                    "text": ""
+                },
+                {
+                    "title": "Très bonne maîtrise - Mener à terme une production individuelle dans le cadre d’un projet accompagné par le professeur",
+                    "color": "",
+                    "text": "+"
+                },
+                {
+                    "title": "",
+                    "color": "#008000",
+                    "text": "+"
+                },
+                {
+                    "title": "Très bonne maîtrise - Faire preuve d’autonomie, d’initiative, de responsabilité, d’engagement et d’esprit critique dans la conduite d’un projet artistique",
+                    "color": "",
+                    "text": "+"
+                },
+                {
+                    "title": "",
+                    "color": "#008000",
+                    "text": "+"
+                }
+            ]
+        }
+    ]
+}

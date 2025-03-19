@@ -5,8 +5,8 @@ horizontale_button_retour = 0.99
 vertical_button_retour = 0.15
 horizontale_titre = 0.12
 vertical_titre = 0.77
-identifiant_pronote = "ethan.trunsard"
-mot_de_passe_pronote = "ARfox324#384268"
+identifiant_pronote = ""
+mot_de_passe_pronote = ""
 url_page_de_connexion_pronote = "https://www.moncollege-ent.essonne.fr/auth/login?callback=%2Fcas%2Flogin%3Fservice%3D"
 url_pronote = "https%253A%252F%252F0910860R.index-education.net%252Fpronote%252Feleve.html#/"
 chemin_driver_firefox = r"C:/Users/Ethan/Desktop/Maison/python/App/geckodriver-v0.36.0-win64/geckodriver.exe"
