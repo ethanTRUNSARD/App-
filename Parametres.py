@@ -1,6 +1,6 @@
 # =========================
 # Variables Globales de Configuration
-# =========================
+# ========
 horizontale_button_retour = 0.99
 vertical_button_retour = 0.15
 horizontale_titre = 0.12
